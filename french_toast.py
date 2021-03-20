@@ -1,4 +1,4 @@
-# Eggs, Bacon, and Toast
+# French Toast
 breakfast_ingredient_1 = "Bread (slice(s))"
 breakfast_ingredient_1_num = 2
 breakfast_ingredient_2 = "Eggs"

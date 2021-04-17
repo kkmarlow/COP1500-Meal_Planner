@@ -1,4 +1,10 @@
-# Eggs, Bacon, and Toast
+"""
+Eggs, Bacon, and Toast.
+Recipe for inclusion with Meal Planner with Recipes program.
+Recipe is automatically imported into the main program based on user choices.
+"""
+__author__ = "Kristopher Marlow"
+
 breakfast_ingredient_1 = "Eggs"
 breakfast_ingredient_1_num = 3
 breakfast_ingredient_2 = "Bacon (slice(s))"

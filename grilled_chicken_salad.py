@@ -1,4 +1,10 @@
-# Grilled Chicken Salad
+"""
+Grilled Chicken Salad.
+Recipe for inclusion with Meal Planner with Recipes program.
+Recipe is automatically imported into the main program based on user choices.
+"""
+__author__ = "Kristopher Marlow"
+
 lunch_ingredient_1 = "Chicken (oz)"
 lunch_ingredient_1_num = 4
 lunch_ingredient_2 = "Lettuce (cup)"

@@ -1,4 +1,10 @@
-# French Toast
+"""
+French Toast.
+Recipe for inclusion with Meal Planner with Recipes program.
+Recipe is automatically imported into the main program based on user choices.
+"""
+__author__ = "Kristopher Marlow"
+
 breakfast_ingredient_1 = "Bread (slice(s))"
 breakfast_ingredient_1_num = 2
 breakfast_ingredient_2 = "Eggs"

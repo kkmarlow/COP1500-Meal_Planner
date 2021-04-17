@@ -1,4 +1,10 @@
-# Grilled Cheese with Tomato Soup
+"""
+Grilled Cheese with Tomato Soup.
+Recipe for inclusion with Meal Planner with Recipes program.
+Recipe is automatically imported into the main program based on user choices.
+"""
+__author__ = "Kristopher Marlow"
+
 lunch_ingredient_1 = "Bread"
 lunch_ingredient_1_num = 2
 lunch_ingredient_2 = "Cheese"
